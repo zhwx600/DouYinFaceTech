@@ -2,6 +2,8 @@ from GetFaceInfo import *
 from GetDouYinImg import *
 
 
+
+
 if __name__ == '__main__':
 
     # client_id 为官网获取的AK， client_secret 为官网获取的SK
