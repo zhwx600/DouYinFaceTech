@@ -7,6 +7,7 @@ SIZE_normal = 1.0
 SIZE_small = 1.5
 SIZE_more_small = 2.0
 
+
 #adb手机截图
 def getDouYinImg():
     #截图
